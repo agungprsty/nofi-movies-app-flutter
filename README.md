@@ -1,5 +1,12 @@
 # NOFI: Movie App
 
+[Download APK](assets/app-release.apk)
+
+## Cara Instal APK di Android
+1. Unduh file APK
+2. Buka file APK di perangkat Android (pastikan pengaturan "Install from Unknown Sources" telah diaktifkan).
+3. Ikuti petunjuk instalasi yang muncul.
+
 ## Into
 
 Aplikasi ini dibangun dengan Flutter dan memiliki tiga fitur utama:
