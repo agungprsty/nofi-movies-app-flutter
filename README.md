@@ -1,6 +1,6 @@
 # NOFI: Movie App
 
-[Download APK](assets/app-release.apk)
+[Download APK](https://drive.google.com/file/d/12BcEemvD8DTtXgt137xOzHe-fMcZp68K/view?usp=sharing)
 
 ## Cara Instal APK di Android
 1. Unduh file APK
